@@ -1,0 +1,2 @@
+# RegrasDeFirewall
+ script sh
